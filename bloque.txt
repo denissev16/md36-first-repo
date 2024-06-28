@@ -1,8 +1,10 @@
+Aprendimos a usar comandos para git en la terminal 
+Como compartir repositorios
 Nos permite arrojar repositorios de git en la web, para poder acceder a ello desde cualquier dispositivos.
 Con ello nos permite compartir con más personas nuestra experiencia y proyectos en los que hemos participado.
 El uso de git nos permite tener a mano todos los cambios que realizamos y mantener una copia segura de los mismos
 Una manera interactiva de trabajo en equipo, y realizar actualizaciones sin perder versiones anteriores de trabajos.
 Hacer uso del sistema de control de versiones Git.
 Usar GitHub para compartir y sincronizar los repositorios de Git.
-Trabajar en equipo mediante las herramientas que ofrece GitHub.
+Trabajar en equipo mediante Git y GitHub.
 Cómo resolver errores comunes al usar Git
